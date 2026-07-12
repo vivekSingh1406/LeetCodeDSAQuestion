@@ -1,0 +1,50 @@
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+.apt_generated_tests/
+.springBeans
+.sts4-cache/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
