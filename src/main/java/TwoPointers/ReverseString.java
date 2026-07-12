@@ -1,4 +1,4 @@
-package org.TwoPointers;
+package TwoPointers;
 
 public class ReverseString {
 
