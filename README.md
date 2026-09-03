@@ -17,3 +17,29 @@
 - Trapping Rain Water
 - Sort Colors
 - Remove Duplicates from Sorted Array II
+
+
+
+                    Java 8 Stream API
+                           |
+        -----------------------------------------
+        |                 |                     |
+     BASIC            COLLECTORS            ADVANCED
+        |                 |                     |
+     filter()          groupingBy()           flatMap()
+     map()             counting()             reduce()
+     sorted()          mapping()              partitioningBy()
+     distinct()        averagingDouble()      toMap()
+     limit()           summingDouble()        collectingAndThen()
+     skip()             maxBy()                Optional
+     max()              minBy()                parallelStream()
+     min()
+        |
+        --------------------------------
+                         |
+                    INTERVIEW PROBLEMS
+                         |
+        -----------------------------------------
+        |          |          |          |       |
+     Top-N      Duplicate   Grouping   Salary   Sorting
+     Salary     Handling    Problems   Problems
