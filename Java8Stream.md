@@ -570,7 +570,7 @@ Vivek, Rahul, Amit, Rohit
 
 ---
 
-## 20. Advanced — Salary Greater Than Department Average
+## 20. Salary Greater Than Department Average
 
 ### Main Question
 
